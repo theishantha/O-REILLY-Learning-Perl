@@ -9,6 +9,5 @@ print "Enter some lines, then press Ctrl+D:\n"; #or maybe Ctrl-Z
 print @reverse_lines;
 
 
-
-print "Enter some lines, then press Ctrl-D:\n";
-print reverse
+# print "Enter some lines, then press Ctrl-D:\n";
+# print reverse <STDIN>;
